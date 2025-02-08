@@ -15,6 +15,7 @@ call person with web service api
 - cd callspam
 - bash start.sh
 
+
 • Android Based Distribution (Termux)
 
 - pkg update 
@@ -23,3 +24,19 @@ call person with web service api
 - git clone https://github.com/Pkry-android/callspam
 - cd callspam
 - bash start.sh
+
+
+• Windows System
+
+- Unavailable right now
+
+
+# Tutorial Video
+
+• Android (Termux)
+
+- unavailable
+
+• Debian/Ubuntu/Kali
+
+-unavailable
