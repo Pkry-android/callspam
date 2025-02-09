@@ -10,7 +10,7 @@ call person with web service api
 
 - sudo apt update
 - sudo apt -y upgrade
-- sudo apt -y install git python python-venv
+- sudo apt -y install git python
 - git clone https://github.com/moekrie/callapi
 - cd callapi
 - bash start.sh
