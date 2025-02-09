@@ -11,7 +11,7 @@ call person with web service api
 - sudo apt update
 - sudo apt -y upgrade
 - sudo apt -y install git python python-venv
-- git clone https://github.com/Pkry-android/callspam
+- git clone https://github.com/moekrie/callapi
 - cd callapi
 - bash start.sh
 
@@ -21,7 +21,7 @@ call person with web service api
 - pkg update 
 - pkg -y upgrade
 - pkg -y install git python python-venv
-- git clone https://github.com/Pkry-android/callspam
+- git clone https://github.com/moekrie/callapi
 - cd callapi
 - bash start.sh
 
